@@ -24,7 +24,7 @@ const ServicesSection = () => (
   <section className="relative py-20 section-gradient overflow-hidden">
     <GridBackground />
     <div className="relative z-10 container mx-auto px-4 text-center">
-      <SectionTitle>SERVIÇOS</SectionTitle>
+      <SectionTitle>NOSSAS SOLUÇÕES</SectionTitle>
       <motion.p
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
