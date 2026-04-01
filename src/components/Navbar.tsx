@@ -5,9 +5,9 @@ import logo from "@/assets/logo-bbcfibra.png";
 
 const navLinks = [
   { label: "Quem Somos", href: "#quem-somos" },
-  { label: "Serviços", href: "#servicos" },
-  { label: "Diferenciais", href: "#diferenciais" },
   { label: "Como Funciona", href: "#como-funciona" },
+  { label: "Diferenciais", href: "#diferenciais" },
+  { label: "Soluções", href: "#solucoes" },
   { label: "Contato", href: "#contato" },
 ];
 

@@ -12,7 +12,7 @@ const steps = [
 ];
 
 const HowItWorksSection = () => (
-  <section className="relative py-20 section-gradient overflow-hidden">
+  <section className="relative py-20 section-gradient overflow-hidden" id="como-funciona">
     <GridBackground />
     <div className="relative z-10 container mx-auto px-4">
       <SectionTitle className="text-center">COMO FUNCIONA</SectionTitle>

@@ -21,7 +21,7 @@ const services = [
 ];
 
 const ServicesSection = () => (
-  <section className="relative py-20 section-gradient overflow-hidden">
+  <section className="relative py-20 section-gradient overflow-hidden" id="solucoes">
     <GridBackground />
     <div className="relative z-10 container mx-auto px-4 text-center">
       <SectionTitle>NOSSAS SOLUÇÕES</SectionTitle>

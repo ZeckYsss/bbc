@@ -12,7 +12,7 @@ const items = [
 ];
 
 const DifferentialsSection = () => (
-  <section className="relative py-20">
+  <section className="relative py-20" id="diferenciais" >
     <div className="container mx-auto px-4 text-center">
       <SectionTitle>DIFERENCIAIS BBC FIBRA</SectionTitle>
       <motion.p
