@@ -32,7 +32,7 @@ const ContactSection = () => (
         </div>
 
         <motion.a
-          href="#contato"
+          href="https://wa.me/5511971740412"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
